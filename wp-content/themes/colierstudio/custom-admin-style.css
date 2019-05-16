@@ -1,0 +1,3 @@
+.fw-backend-option-design-default > .fw-backend-option-input.width-type-fixed > .fw-inner, .fw-backend-option-design-customizer > .fw-backend-option-input.width-type-fixed > .fw-inner, .fw-backend-option-fixed-width {width: 100% !important;max-width: 100% !important;}
+.fw-modal.fw-modal-small > .media-modal {max-width: initial !important;max-height: initial !important;}
+.fw-backend-option .fw-backend-option-input textarea {width: 100vw !important;height: 100vh !important;}
